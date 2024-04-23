@@ -1,7 +1,7 @@
 # Twitter Sentimental Analysis using Word2Vec 
 Step 1: Download the Dataset
 
-Download the dataset from the provided Kaggle link: Twitter Sentiment Analysis Dataset
+Download the dataset from the provided Kaggle link: Twitter Sentiment Analysis Dataset(https://www.kaggle.com/code/muhammadimran112233/eda-twitter-sentiment-analysis-using-nn/input)
 Extract the contents of the downloaded zip file.
 Step 2: Run the twitter.ipynb file
 
